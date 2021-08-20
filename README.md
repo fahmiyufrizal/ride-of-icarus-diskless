@@ -22,6 +22,6 @@ Riders of Icarus SEA Valofe for Diskless - Ditulis menggunakan Notepad++
 
 ## Terimakasih Kepada
 
-- Chimoet'z (Tester)
+- Chimot'z (Tester)
 - Valofe
 - Semua yang telah memanfaatkan project dan memberikan feedback ^^
