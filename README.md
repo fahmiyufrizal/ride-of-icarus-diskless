@@ -1,6 +1,6 @@
-# Ride of Icarus SEA Valofe for Diskless
+# Riders of Icarus SEA Valofe for Diskless
 
-Ride of Icarus SEA Valofe for Diskless - Ditulis menggunakan Notepad++
+Riders of Icarus SEA Valofe for Diskless - Ditulis menggunakan Notepad++
 
 ## English please?
 
@@ -12,13 +12,13 @@ Ride of Icarus SEA Valofe for Diskless - Ditulis menggunakan Notepad++
 
 ## Instalasi dan cara menggunakan
 
-- Pastikan Ride of Icarus SEA Valofe sudah berjalan normal di server
+- Pastikan Riders of Icarus SEA Valofe sudah berjalan normal di server
 - Bila sudah pasti, jalankan icarus_diskless_v2.7 di server
 - Bila sudah terbuka launcher-nya, taruh icarus_diskless_v2.7 di game menu masing-masing
 
 ## Ga pengen ribet?
 
-- Gunakan Ride of Icarus SEA di Steam
+- Gunakan Riders of Icarus SEA di Steam
 
 ## Terimakasih Kepada
 
